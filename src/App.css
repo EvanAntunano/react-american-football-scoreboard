@@ -6,7 +6,7 @@
 .scoreboard {
   width: 58%;
   margin: 10rem auto;
-  background-color: #0b5402;
+  background-image: radial-gradient(circle, #1f0537, #003068, #00557c, #00766a, #2f9244);
   color: white;
   border-radius: 0.5rem;
   margin-top: 10rem;
@@ -112,6 +112,7 @@
   display: flex;
   justify-content: space-around;
 }
+
 
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
